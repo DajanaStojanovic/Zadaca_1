@@ -1,0 +1,93 @@
+body  {
+	background-color: #DAD9CE;
+	margin:  50px;
+    padding:  50px;
+	font: 14pt times;
+	color: #939178;
+	direction:ltr;
+}
+
+h1 { 
+	font: bold;
+	text-align: center;
+	direction: ltr;
+	text-transform: uppercase;
+	word-spacing: 10px;
+	font-family: Broadway;
+	text-shadow: 7px 7px 11px white;
+}
+
+h3 { 
+text-align: center;
+direction: ltr;
+}
+
+
+h4 { 
+text-align: center;
+direction: ltr;
+}
+
+bdo  { 
+font: bold;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 20px;
+}
+
+hr {
+border-color: #FFFFF9;
+background-color: #FFFFF9;
+color: #FFFFF9;
+padding: 2px;
+}
+
+pre {
+	margin: auto;
+	padding: 10px;
+	font-family: Comic Sans MS;
+	text-align: center;
+	line-height: 15px;
+	white-space: pre;
+}
+
+del { 
+color: yellow
+}
+
+.picture { 
+	width: 150px;
+	height: 222px;
+	float: right;
+	vertical-align: text-top;
+	padding: 5px;
+}
+
+.slika  { 
+	width: 200px;
+	height: 266px;
+	float: left;
+	padding-right: 10px;
+}
+
+.slika1  { 
+	width: 150px;
+	height: 222px;
+	float: right;
+	padding-left: 10px;
+}
+.ulomak {
+	padding-left: 20px;
+	text-indent: 20px;
+	vertical-align: top;
+	text-decoration: none;
+}
+
+.potpis {
+text-align: center; 
+}
+
+.citat { 
+font-size: 14px;
+}
+
